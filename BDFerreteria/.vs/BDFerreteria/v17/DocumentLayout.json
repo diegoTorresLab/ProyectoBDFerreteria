@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F150-321D-4444-9315-74855F92733E}|BDFerreteria.csproj|c:\\users\\diego\\documents\\6c-isc\\administracion de base de datos\\bdferreteria\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD7F150-321D-4444-9315-74855F92733E}|BDFerreteria.csproj|solutionrelative:formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F150-321D-4444-9315-74855F92733E}|BDFerreteria.csproj|C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BD7F150-321D-4444-9315-74855F92733E}|BDFerreteria.csproj|solutionrelative:formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F150-321D-4444-9315-74855F92733E}|BDFerreteria.csproj|C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD7F150-321D-4444-9315-74855F92733E}|BDFerreteria.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\FormSeguridad.cs",
+              "RelativeDocumentMoniker": "FormSeguridad.cs",
+              "ToolTip": "C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\FormSeguridad.cs",
+              "RelativeToolTip": "FormSeguridad.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:45:39.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSeguridad.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\FormSeguridad.cs",
+              "RelativeDocumentMoniker": "FormSeguridad.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\BDFerreteria\\FormSeguridad.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\BDFerreteria\\FormSeguridad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:45:36.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "C:\\Users\\diego\\Documents\\6C-ISC\\Administracion de Base de Datos\\BDFerreteria\\FormMenu.cs",
+              "RelativeToolTip": "FormMenu.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA2wFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:07:37.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

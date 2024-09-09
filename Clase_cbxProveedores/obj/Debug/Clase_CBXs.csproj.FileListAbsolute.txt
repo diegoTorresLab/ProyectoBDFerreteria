@@ -1,0 +1,6 @@
+C:\Users\diego\source\repos\Clase_cbxProveedores\bin\Debug\Clase_cbxProveedores.dll
+C:\Users\diego\source\repos\Clase_cbxProveedores\bin\Debug\Clase_cbxProveedores.pdb
+C:\Users\diego\source\repos\Clase_cbxProveedores\obj\Debug\Clase_CBXs.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Clase_cbxProveedores\obj\Debug\Clase_CBXs.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Clase_cbxProveedores\obj\Debug\Clase_cbxProveedores.dll
+C:\Users\diego\source\repos\Clase_cbxProveedores\obj\Debug\Clase_cbxProveedores.pdb
